@@ -1,0 +1,11 @@
+{
+  "description": "My trading app",
+  "domain": "is-a.dev",
+  "subdomain": "kafi-trading",
+  "owner": {
+    "username": "তোমার-github-username"
+  },
+  "record": {
+    "CNAME": "তোমার-cloudflare-tunnel-id.cfargotunnel.com"
+  }
+}
